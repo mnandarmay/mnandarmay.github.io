@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+i like working with numbers and graphs :)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+i wrestle on a daily basis with my bro
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:mmay03@mylangara.ca)
