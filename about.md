@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-i like working with numbers and graphs :)
+i enjoy working with numbers
 
 ### More Information
 
-i wrestle on a daily basis with my bro
+i am fascinated by how diagrams and figures can convey a multitude of messages and insights
 
 ### Contact me
 
