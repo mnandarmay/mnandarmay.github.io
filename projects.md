@@ -17,5 +17,5 @@ Explored multiple machine learning algorithms with scikit-learn, selecting optim
 ### Branching Out: A Visual Analysis of Tree Growth in Vancouver
 Developed interactive visualizations, allowing exploration of tree growth patterns throughout vancouver.
 
-[view the EDA](assets/notebooks/final_project_viz_eda.html)
+[view the EDA](assets/notebooks/final_project_viz_eda.html)  
 [view the interactive analysis](assets/notebooks/final_project_viz.html)
