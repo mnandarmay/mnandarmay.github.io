@@ -2,17 +2,14 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="container">
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li><i class="fa-brands fa-python-spin" style="color: #FFD43B;"></i></i></i> Python</li>
+      <li><i class="fa-brands fa-python" style="color: #FFD43B;"></i></i> R</li>
+      <li><i class="<i class="fa-solid fa-database-bounce"></i>"></i> SQL</li>
+      <li><i class="fas fa-flask"></i> Molecular Biology</li>
+    </ul>
+  </section>
 </div>
