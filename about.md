@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a passionate data enthusiast with a background in molecular biology and biochemistry, currently pursuing a Post-Degree Diploma in Data Analytics. With a strong foundation in statistical analysis, machine learning, and data visualization, I enjoy exploring the intersection of life sciences and data. I've applied my skills to projects involving health data, predictive modeling, and bioinformatics. I’m always eager to learn new techniques and tools, and I aspire to leverage data to drive meaningful insights and solutions in the healthcare and biotech fields.
+I'm a passionate data enthusiast with a background in molecular biology and biochemistry, currently pursuing a Post-Degree Diploma in Data Analytics. With a strong foundation in statistical analysis, machine learning, and data visualization, I enjoy exploring the intersection of life sciences and data. I've applied my skills to projects involving different industries, including healthcare, utilities, and retail. I’m always eager to learn new techniques and tools, and I aspire to leverage data to drive meaningful insights and solutions in the healthcare and biotech fields.
 
 ### More Information
 
