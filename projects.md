@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
+### MIMIC-III: Analysis and Classification
+Conducted EDA and classification on patient health records from the MIMIC-III database, extracting data via SnowSQL to identify patterns and predict patient outcomes.
+
+[view the EDA](assets/notebooks/MIMICIII_EDA.html)  
+[view the analysis](assets/notebooks/MIMICIII_Classification.html)
+
+
+
 ### Disney's Cinematic Evolution: Exploring Popular Genres and Revenue Across the Years
 Performed comprehensive data analysis on movie datasets, uncovering trends in genre popularity and revenue over time using Python libraries.
 
